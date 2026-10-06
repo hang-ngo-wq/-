@@ -1,0 +1,6 @@
+{
+  "name": "Indeed求人データ抽出システム",
+  "description": "Indeed求人本文から固定残業および試用期間の条件を高精度に自動抽出・根拠文章付きで判定する業務自動化ツール",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
